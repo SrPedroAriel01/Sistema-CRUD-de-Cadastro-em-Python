@@ -48,7 +48,7 @@ Sistema-CRUD-de-Cadastro-em-Python/
 2. Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/Sistema-CRUD-de-Cadastro-em-Python.git
+git clone https://github.com/SrPedroAriel01/Sistema-CRUD-de-Cadastro-em-Python
 ```
 
 3. Acesse a pasta do projeto:
