@@ -6,7 +6,7 @@ Projeto desenvolvido com o objetivo de praticar lógica de programação, Progra
 
 ## 🚀 Funcionalidades
 
-* ✅ Cadastro de pessoas
+* ✅ Cadastros de pessoas
 * 📋 Listagem de registros
 * 🔍 Busca por nome
 * ✏️ Atualização de dados (com confirmação)
